@@ -1,0 +1,2 @@
+[console_scripts]
+file_backup_tool = backup_tool:main
